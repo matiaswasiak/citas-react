@@ -1,15 +1,5 @@
 function App() {
-  return (
-    <div>
-      <h1>Hola Mundo</h1>
-
-      <p>Un parrafo</p>
-
-      <img src="algunaimagen.jpg" alt="" />
-
-      <input type="text" />
-    </div>
-  );
+  return <div></div>;
 }
 
 export default App;
