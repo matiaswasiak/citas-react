@@ -24,7 +24,7 @@ const Paciente = () => {
         <span className="font-normal  normal-case">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
           quasi sed, obcaecati dolore cumque odio temporibus? Quod, praesentium
-          eum. Tempore tempora quidem quod aut! Fugit quidem ut recusandae quam
+          eum. Tempore tempora quidem quod aut! Fugit quidem ut recusandae
           earum!
         </span>
       </p>
