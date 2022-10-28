@@ -11,7 +11,7 @@ const Paciente = () => {
 
       <p className="font-bold mb-3 text-gray-70 uppercase">
         Email:{" "}
-        <span className="font-normal  normal-case">matiaswasiak@gmail.com</span>
+        <span className="font-normal  normal-case">matiask@gmail.com</span>
       </p>
 
       <p className="font-bold mb-3 text-gray-70 uppercase">
